@@ -17,3 +17,11 @@ mechanics-of-migrations-v-000/
   LICENSE.md
   Rakefile
   README.md
+  
+  class CreateArtists < ActiveRecord::Migration[5.2]
+  def up
+  end
+ 
+  def down
+  end
+end
