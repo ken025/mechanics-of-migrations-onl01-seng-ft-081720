@@ -26,5 +26,7 @@ mechanics-of-migrations-v-000/
   end
   
   def change
+    create_table :artists do |t|
+  end
   end
 end
