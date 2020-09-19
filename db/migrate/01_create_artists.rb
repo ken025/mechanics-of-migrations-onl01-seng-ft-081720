@@ -24,4 +24,7 @@ mechanics-of-migrations-v-000/
  
   def down
   end
+  
+  def change
+  end
 end
